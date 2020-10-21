@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Assignment 2
 
 ## Create a matrix that will allow the inverse to be cached
 
